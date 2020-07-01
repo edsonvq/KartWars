@@ -1,0 +1,9 @@
+﻿t:Produtor
+Edson Vinicius de Queiroz
+
+t:Designers
+Edson Vinicius de Queiroz
+Ivan Giust da Cunha
+
+t:Progradores
+Edson Vinicius de Queiroz

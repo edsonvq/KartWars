@@ -1,0 +1,15 @@
+using UnityEngine;
+using System.Collections;
+
+public class ParticleController : MonoBehaviour {
+
+    public ParticleSystem particles;
+
+    // Update is called once per frame
+    void Update () {
+        //After 4 seconds, pause particles
+        if(Time.timeSinceLevelLoad > 4f) {
+            particles.Pause();
+        }
+    }
+}
